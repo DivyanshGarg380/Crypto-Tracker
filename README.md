@@ -1,4 +1,4 @@
-**Crypto Tracker — Real-time Cryptocurrency Dashboard**
+# Crypto Tracker — Real-time Cryptocurrency Dashboard
 
 A modern, responsive web app that lets users explore all cryptocurrencies, track their prices, market cap, ranking, and view price charts. Built with React.js, this Crypto Tracker focuses on sleek UI, real-time data, and easy navigation — perfect for portfolio projects, demos, or as a starter for a full-stack crypto platform.
 
