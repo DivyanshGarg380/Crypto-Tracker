@@ -4,23 +4,23 @@ A modern, responsive web app that lets users explore all cryptocurrencies, track
 
 **Features**
 
--Browse all cryptocurrencies with live data.
--Search for any crypto by name or symbol.
--View detailed information for each crypto:
-  -Current price in USD, INR, EUR.
-  -Market capitalization.
-  -Global ranking.
--Interactive line chart showing crypto price trends.
--Responsive, mobile-first design with modern UI components.
--Accessible and keyboard-friendly components.
+- Browse all cryptocurrencies with live data.
+- Search for any crypto by name or symbol.
+- View detailed information for each crypto:
+  - Current price in USD, INR, EUR.
+  - Market capitalization.
+  - Global ranking.
+- Interactive line chart showing crypto price trends.
+- Responsive, mobile-first design with modern UI components.
+- Accessible and keyboard-friendly components.
 
 **Tech Stack**
 
--Frontend: React (Vite or Create React App), React Router
--State management: React Context API / useState / useEffect
--Styling: CSS
--API: CoinGecko API 
--Deployment: Netlify / Vercel / GitHub Pages
+- Frontend: React (Vite or Create React App), React Router
+- State management: React Context API / useState / useEffect
+- Styling: CSS
+- API: CoinGecko API 
+- Deployment: Netlify / Vercel / GitHub Pages
 
 **Getting Started**
 1. Clone the repo
